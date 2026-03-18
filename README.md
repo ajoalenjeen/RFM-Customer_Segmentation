@@ -15,6 +15,9 @@ To segment customers for targeted marketing by identifying:
 
 ## Dataset Summary
 Source: UCI Machine Learning Repository E-Commerce UK Dataset
+
 Link : https://archive.ics.uci.edu/dataset/352/online+retail
+
 Records: 500K+ transactions
+
 Fields: InvoiceNo, Product Description, Quantity, UnitPrice, CustomerID, Country, InvoiceDate
