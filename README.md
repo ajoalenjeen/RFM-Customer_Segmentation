@@ -5,7 +5,7 @@ This project applies Recency, Frequency, and Monetary (RFM) analysis to segment 
 
 It was performed on a real-world UK-based e-commerce transactions dataset, imported into MySQL and cleaned to prepare for analysis.
 
-## Business Objective
+## 📊 Business Objective
 To segment customers for targeted marketing by identifying:
  * Champions
  * Loyal Customers
@@ -13,7 +13,7 @@ To segment customers for targeted marketing by identifying:
  * New Customers
  * Big Spenders at Risk
 
-## Dataset Summary
+## 🧱 Dataset Summary
 Source: UCI Machine Learning Repository E-Commerce UK Dataset
 
 Link : https://archive.ics.uci.edu/dataset/352/online+retail
@@ -22,7 +22,7 @@ Records: 500K+ transactions
 
 Fields: InvoiceNo, Product Description, Quantity, UnitPrice, CustomerID, Country, InvoiceDate
 
-## Process Summary
+## 🔧 Process Summary
 ### 1. Data Cleaning
 * Removed duplicate records using ROW_NUMBER() with composite key 
   (InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country)
@@ -49,7 +49,7 @@ Fields: InvoiceNo, Product Description, Quantity, UnitPrice, CustomerID, Country
 * Cancellation volume and patterns
 
 
-### 3. ## RFM Segmentation
+### 3. RFM Segmentation
 
 #### RFM Base Metrics
 * **Recency** — Days since last purchase (from max date in dataset)
@@ -81,7 +81,7 @@ Fields: InvoiceNo, Product Description, Quantity, UnitPrice, CustomerID, Country
 | Others               | Everything else                   |
 
 
-## Sample RFM Output
+## 📌 Sample RFM Output
 
 | CustomerID | Recency | Frequency | Monetary   | RFM Score | Segment              |
 |------------|---------|-----------|------------|-----------|----------------------|
