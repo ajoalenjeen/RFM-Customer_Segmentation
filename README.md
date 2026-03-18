@@ -55,7 +55,6 @@ To segment customers for targeted marketing by identifying:
 * **Recency** — Days since last purchase (from max date in dataset)
 * **Frequency** — Count of distinct invoices per customer
 * **Monetary** — Total spend (quantity × unit price)
-* Excluded cancelled orders (InvoiceNo starting with 'C') and negative quantities
 
 #### RFM Scoring (1–5 scale)
 | Score | Recency (days) | Frequency (orders) | Monetary (£) |
