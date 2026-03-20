@@ -1,4 +1,4 @@
-# RFM-Customer_Segmentation
+# RFM-Customer-Segmentation
 
 ## Project Overview
 This project applies Recency, Frequency, and Monetary (RFM) analysis to segment customers based on their purchasing behavior using SQL.
