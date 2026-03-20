@@ -91,9 +91,13 @@ To segment customers for targeted marketing by identifying:
 | 12354      | 232     | 1         | 1,079.40   | 113       | Big Spenders at Risk |
 
 
-## Dashboard Overview [link](https://public.tableau.com/app/profile/ajo.jeen5964/viz/RetailAnalysisRFM/Overview?publish=yes)
+## Dashboard [link](https://public.tableau.com/app/profile/ajo.jeen5964/viz/RetailAnalysisRFM/Overview?publish=yes)
 
+### Overview
 <img src="https://github.com/ajoalenjeen/RFM-Customer_Segmentation/blob/6d7a13831990f3da99131db2c5b736c051661b48/Dashboard/Screenshot%202026-03-18%20001354.png?raw=true" width="800">
+
+## RFM
+<img src="https://github.com/ajoalenjeen/RFM-CUSTOMER-SEGMENTATION/blob/70310bf41cd1dd3adeec66c4001e27097468afca/Dashboard/Screenshot%202026-03-18%20001409.png?raw=true" width="800">
 
 ## 📈 Tools Used
  * MySQL Workbench
