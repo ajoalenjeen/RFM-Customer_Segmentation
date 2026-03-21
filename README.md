@@ -94,7 +94,7 @@ To segment customers for targeted marketing by identifying:
 ## Dashboard [link](https://public.tableau.com/app/profile/ajo.jeen5964/viz/RetailAnalysisRFM/Overview?publish=yes)
 
 ### Overview
-<img src="https://github.com/ajoalenjeen/RFM-CUSTOMER-SEGMENTATION/blob/edbfe79da1784ec00e44d945f51362a3448a4814/Dashboard/Screenshot%202026-03-20%20015048.png?raw=true" width="800">
+<img src="https://github.com/ajoalenjeen/RFM-CUSTOMER-SEGMENTATION/blob/402163d6853f25d620b30f09dd1293fb56913441/Dashboard/Screenshot%202026-03-21%20012250.png?raw=true" width="800">
 
 ### RFM
 <img src="https://github.com/ajoalenjeen/RFM-CUSTOMER-SEGMENTATION/blob/70310bf41cd1dd3adeec66c4001e27097468afca/Dashboard/Screenshot%202026-03-18%20001409.png?raw=true" width="800">
