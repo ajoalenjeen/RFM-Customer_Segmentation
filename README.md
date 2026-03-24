@@ -94,19 +94,19 @@ To segment customers for targeted marketing by identifying:
 ## Dashboard Overview [link](https://public.tableau.com/app/profile/ajo.jeen5964/viz/RetailAnalysisRFM/Overview?publish=yes)
 <img src="https://github.com/ajoalenjeen/RFM-CUSTOMER-SEGMENTATION/blob/879e7c00fb9969aeec95cd972a001d4546034dbc/Dashboard/Screenshot%202026-03-23%20222517.png?raw=true" width="800">
 
-## Key Insights
-* Champions (11.4% of customers) drive 55.67% of revenue — extreme concentration risk
-* Champions + Loyal combined (24.7% of customers) account for 72.3% of total revenue
-* New Customers is the largest RFM segment (933) — biggest pipeline for future Loyalists
-* 67.17% repeat purchase rate, but 34.6% never return — retention gap between first and second purchase
-* Lost (618) and About to Sleep (327) together hold 22.7% of customers contributing only 4.1% of revenue — reactivation opportunity
-  
+## Insights
+* Revenue concentration — 474 Champions (11.3%) drive 55.7% of revenue (£4.27M). Losing even a few is costly.
+* One-time buyer problem — 1,450 customers (34.6%) never returned. Returning customers average £2,578 each.
+* Q4 dependency — Sep–Nov generates 40.6% of annual revenue. Monthly average nearly doubles (£548K → £999K).
+* Long-tail catalog — Bottom 50% of products contribute only 3.9% of revenue.
+* High-value churn risk — 161 At Risk/Cannot Lose customers hold £377K in historical revenue and are slipping away.
+
 ## Recommendations
-* Create VIP program for Champions (R5F5M5) with exclusive perks to protect the 55.67% revenue base
-* Build post-first-purchase email flows for New Customers segment (933) to move them toward Loyal
-* Launch win-back campaigns for Cannot Lose Them (17) and At Risk (55) before they slip to Lost
-* Target About to Sleep (327) and Cooling Down (204) with re-engagement offers while they're still reachable
-* Monitor RFM segment migration monthly — track how many New Customers convert to Loyal vs drop to Lost
+* VIP retention for Champions — Loyalty rewards, early access, dedicated support. Losing 10% = ~£427K gone.
+* First-purchase follow-up sequence — Converting just 10% of one-timers into repeats could add ~£374K.
+* Win-back campaigns for at-risk customers — Personalised offers to 161 high-value churning buyers.
+* Rationalise the product catalog — Discontinue or bundle low-performing products eating operational costs.
+* mp up for Q4 by August — Stock, staff, and marketing should scale ahead of the Sep–Nov surge.
 
 
 ## 📈 Tools Used
