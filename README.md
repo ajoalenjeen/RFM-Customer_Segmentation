@@ -113,7 +113,7 @@ To segment customers for targeted marketing by identifying:
  * MySQL Workbench
  * CSV Import & Table Creation
  * SQL Views & Case Logic
- * Exported final table for Power BI dashboard
+ * Exported final table for Tableau dashboard
 
 ## 🧠 SQL - Key Skills Demonstrated
  * Data Cleaning (NULLs, Duplicates, Returns)
