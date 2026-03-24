@@ -5,11 +5,10 @@ This project analyzes a real-world UK-based e-commerce dataset of 541,909 transa
 
 ## 📊 Business Objective
 To segment customers for targeted marketing by identifying:
- * Champions
- * Loyal Customers
- * At Risk / Lost Customers
- * New Customers
- * Big Spenders at Risk
+ * Champions & Loyal Customers
+ * New Customers & Potential Loyalists
+ * At Risk, Lost & Big Spenders at Risk
+ * And 7 other behavioural segments 
 
 ## 🧱 Dataset Summary
 **Source**: UCI Machine Learning Repository E-Commerce UK Dataset
